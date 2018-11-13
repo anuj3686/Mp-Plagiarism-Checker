@@ -1,1 +1,0 @@
-# Mp-Plagiarism-Checker
